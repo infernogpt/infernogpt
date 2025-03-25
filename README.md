@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @infernogpt
 - 👀 I’m interested in coding etc
-- 🌱 I’m currently learning C# and Python
+- 🌱 I’m currently learning C# and Python and a little Batch
 - 💞️ I’m looking to collaborate on HWID spoofer
 - 📫 How to reach me you dont
 - 😄 Pronouns: he/him

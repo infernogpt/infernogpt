@@ -9,8 +9,7 @@ Welcome to my GitHub profile! I'm an AI enthusiast with a passion for coding, ma
 - ⚡ Fun fact: I enjoy solving complex problems and creating efficient algorithms.
 
 ## 🛠️ Languages and Tools
-- Programming Languages: Python, JavaScript, C++, Java
-- Frameworks and Libraries: TensorFlow, PyTorch, Scikit-Learn, React
+- Programming Languages: C# and a lil Python
 - Tools: Git, Docker, Kubernetes, Jupyter Notebook
 
 ## 📊 GitHub Stats

@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm an AI enthusiast with a passion for coding, ma
 - 💻 I love working on AI and machine learning projects.
 - 🌱 I'm currently learning more about neural networks and deep learning.
 - 🤝 I'm looking to collaborate on interesting and innovative projects.
-- ⚡ Fun fact: I enjoy solving complex problems and creating efficient algorithms.
-
+- ⚡ Fun fact: tagmonkevr is stinky. dave too
 ## 🛠️ Languages and Tools
 - Programming Languages: C# and a lil Python
 - Tools: Git, Docker, Kubernetes, Jupyter Notebook

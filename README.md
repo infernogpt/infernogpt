@@ -1,27 +1,52 @@
-# Hi, I'm infernogpt! 👋
+# Hi there! 👋 I'm walkslow
 
-Welcome to my GitHub profile! I'm an AI enthusiast with a passion for coding, machine learning, and open-source projects. Here's a little bit about me:
+Welcome to my GitHub profile! I'm a **C# Developer** passionate about crafting robust, scalable, and efficient software solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages**: C#, .NET
+- **Frameworks/Libraries**: idfk
+- **Tools**: Visual Studio, Git, Docker
+- **Other**: Azure, RESTful APIs, Microservices
+
+---
 
 ## 🚀 About Me
-- 💻 I love working on AI and machine learning projects.
-- 🌱 I'm currently learning more about neural networks and deep learning.
-- 🤝 I'm looking to collaborate on interesting and innovative projects.
-- ⚡ Fun fact: tagmonkevr is stinky. dave too
-## 🛠️ Languages and Tools
-- Programming Languages: C# and a lil Python
-- Tools: Git, Docker, Kubernetes, Jupyter Notebook
 
-## 📊 GitHub Stats
-![infernogpt's GitHub stats](https://github-readme-stats.vercel.app/api?username=infernogpt&show_icons=true&theme=radical)
+- 💻 I'm a dedicated C# developer with a love for clean and maintainable code.
+- 🌱 Currently learning **more C#** and **gorilla tag things**.
+- 🎯 Goal: Build impactful software that solves real-world problems.
+- ⚡ Fun Fact: I sit and stress myself out coding in school
 
-## 🔗 Connect with Me
-- [Discord](https://dsc.gg/azuremodding)
-- [Website](https://www.inferno.dev)
+---
 
-## 📚 Recent Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🌟 Featured Projects
 
-Thanks for stopping by! Feel free to explore my repositories and get in touch if you'd like to collaborate or chat about AI and technology.
+- **[HWID Spoofer](https://github.com/infernopluh/InfernoHWIDSpoofer)**  
+  *A brief description of this project and its purpose.*
+  
+- **[Discord Bot](https://github.com/infernopluh/DiscordBot)**  
+  *Highlight another key project with details.*
 
-```
+- **[Refund Timer](https://github.com/infernopluh/RefundTimer)**  
+  *Include a few lines about the impact or functionality.*
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=infernopluh&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=infernopluh&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+
+- **GitHub**: [infernopluh](https://github.com/infernopluh)
+- **Discord**: [infernopluh](https://discord.gg/elux)
+
+---
+
+Thank you for visiting my profile! 😊 Feel free to explore my repositories and connect with me.
